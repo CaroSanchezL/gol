@@ -1,7 +1,6 @@
 # Gol-Ball Challenge
 
 ### Version 1.0.0
-_______________
 
 ## Challenge
 - Create an S3 bucket to store the tfstate file. The bucket must be tagged: Name=Gol-ball Owner=InfraTeam. 
